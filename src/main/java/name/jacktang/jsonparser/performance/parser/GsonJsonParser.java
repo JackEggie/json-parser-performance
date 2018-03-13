@@ -1,4 +1,4 @@
-package name.jacktang.parser;
+package name.jacktang.jsonparser.performance.parser;
 
 import com.google.gson.Gson;
 

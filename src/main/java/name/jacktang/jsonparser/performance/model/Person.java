@@ -1,4 +1,4 @@
-package name.jacktang.model;
+package name.jacktang.jsonparser.performance.model;
 
 /**
  * @author tangzhaowei

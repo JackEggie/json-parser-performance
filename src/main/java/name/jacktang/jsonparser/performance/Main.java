@@ -1,10 +1,10 @@
-package name.jacktang;
+package name.jacktang.jsonparser.performance;
 
-import name.jacktang.model.Person;
-import name.jacktang.parser.FastjsonJsonParser;
-import name.jacktang.parser.GsonJsonParser;
-import name.jacktang.parser.JacksonJsonParser;
-import name.jacktang.parser.JsonlibJsonParser;
+import name.jacktang.jsonparser.performance.model.Person;
+import name.jacktang.jsonparser.performance.parser.FastjsonJsonParser;
+import name.jacktang.jsonparser.performance.parser.GsonJsonParser;
+import name.jacktang.jsonparser.performance.parser.JacksonJsonParser;
+import name.jacktang.jsonparser.performance.parser.JsonlibJsonParser;
 import org.apache.commons.lang.RandomStringUtils;
 
 import java.util.Random;

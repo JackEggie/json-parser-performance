@@ -1,4 +1,4 @@
-package name.jacktang.parser;
+package name.jacktang.jsonparser.performance.parser;
 
 import net.sf.json.JSONObject;
 
